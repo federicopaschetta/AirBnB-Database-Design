@@ -2,12 +2,14 @@
 
 This project attempts to design AirBnB database structure and schemas. The project includes all steps necessary to design correctly a database: requirements collection, conceptual design, E-R designs, logic design and DDL implementation.
 
-## Files
+## Files and Folders
 
-- `draws.txt`: Contains, for each sport in oddsportal.com website, if the sport admits draws or not.
-- `scraping.ipynb`: Jupyter notebook demonstrating the scraping process.
-- `scraping.py`: Python script for scraping data.
-
+- `Photoshop`: Contains, for each entity related to the design, its Photoshop .psd file.
+- `Progettazione Concettuale`: Contains Photoshop images for each entity in the design.
+- `Basi di Dati 2022 Parusso-Paschetta-Lombardi.pdf`: Contains actual PDF file of the project with all the steps taken (in Italian).
+- `projectAssignment.pdf`: Contains the assignment rules for the project.
+- `esame_progettazione_schema.pdf`: Contains initial schema of the project.
+- `esame_progettazione_checklist.pdf`: Contains checklist for project.
 
 ## Contributing
 
